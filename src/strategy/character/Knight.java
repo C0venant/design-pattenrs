@@ -1,6 +1,6 @@
-package Strategy.character;
+package strategy.character;
 
-import Strategy.weapon.WeaponBehavior;
+import strategy.weapon.WeaponBehavior;
 
 public class Knight extends Character {
 

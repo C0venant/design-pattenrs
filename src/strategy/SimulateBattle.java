@@ -1,13 +1,13 @@
-package Strategy;
+package strategy;
 
-import Strategy.character.King;
-import Strategy.character.Knight;
-import Strategy.character.Queen;
-import Strategy.character.Troll;
-import Strategy.weapon.AxeBehavior;
-import Strategy.weapon.BowAndArrowBehavior;
-import Strategy.weapon.KnifeBehavior;
-import Strategy.weapon.SwordBehavior;
+import strategy.character.King;
+import strategy.character.Knight;
+import strategy.character.Queen;
+import strategy.character.Troll;
+import strategy.weapon.AxeBehavior;
+import strategy.weapon.BowAndArrowBehavior;
+import strategy.weapon.KnifeBehavior;
+import strategy.weapon.SwordBehavior;
 
 public class SimulateBattle {
 

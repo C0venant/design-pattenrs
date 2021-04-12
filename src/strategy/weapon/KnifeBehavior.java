@@ -1,4 +1,4 @@
-package Strategy.weapon;
+package strategy.weapon;
 
 public class KnifeBehavior implements WeaponBehavior{
 
